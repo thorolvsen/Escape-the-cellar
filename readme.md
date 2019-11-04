@@ -7,7 +7,7 @@ Detta är mitt spel "escape the cellar" som går ut på att du skall fatta en ra
 https://github.com/thorolvsen/Escape-the-cellar
 
 # Demo
- 
+https://thorolvsen.github.io/Escape-the-cellar/
 
  /Ebba Thorolvsen
  
